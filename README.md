@@ -1,15 +1,17 @@
-3D Boxes Background
-Description
+**3D Boxes Background**
+
+
+**Description**
 This project creates an interactive 3D Boxes Background effect using HTML, CSS, and JavaScript. The boxes are styled to appear as tiles of an image and can transform dynamically when the "Magic 🎩" button is clicked, creating an eye-catching 3D rotation effect.
 
-Features
+**Features**
 Interactive 3D effect: Click the "Magic 🎩" button to toggle the transformation of the boxes.
 Stylized design: Includes a responsive and visually appealing layout with animated transitions.
 Customizable: Easily change the image or modify the styles to fit your requirements.
-Demo
+**Demo**
 ![giphy](https://github.com/user-attachments/assets/bd8c68c9-da50-448b-9eb9-4ef9eec8afc2)
 
-Technologies Used
+**Technologies Used**
 HTML5: Structure of the webpage.
 CSS3: Styling, animations, and responsive design.
 JavaScript: Dynamic functionality to create and manipulate the boxes.
